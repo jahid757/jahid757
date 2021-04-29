@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design And Web Development (Web Technology, Programming)
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Programming
-- 📫 How to reach me freelancejahid5@gmail.com
+- 📫 How to reach me jahidhasan.developer@gmail.com
 
 <!---
 jahid757/jahid757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
