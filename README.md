@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jahid Hasan
 - 👀 I’m interested in Web Design And Web Development (Web Technology, Programming)
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me jahidhasan.developer@gmail.com
 
