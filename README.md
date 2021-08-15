@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me jahidhasan.developer@gmail.com
+- 👨‍💻 Backend Lover 👨‍💻
 
 <!---
 jahid757/jahid757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
